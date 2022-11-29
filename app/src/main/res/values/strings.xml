@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Comic Book</string>
+    <string name="admin_panel">ADMIN PANEL</string>
+    <string name="abc_gmail_com">abc@gmail.com</string>
+    <string name="add_pdf">+ Add Pdf</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

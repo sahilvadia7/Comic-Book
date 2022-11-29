@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.242" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/drawable/gray_corner_background.xml" value="0.242" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/drawable/ic_attach_white.xml" value="0.2465" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/drawable/ic_baseline_category.xml" value="0.242" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/drawable/ic_baseline_picture_as_pdf_24.xml" value="0.2465" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/drawable/ic_launcher_background.xml" value="0.242" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/drawable/ic_more.xml" value="0.1" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/drawable/shadow_background.xml" value="0.3625" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/drawable/shape_admin_background.xml" value="0.304" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/drawable/shape_welcome_btn1.xml" value="0.304" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/drawable/shape_welcome_btn2.xml" value="0.304" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/drawable/tab_background_selected.xml" value="0.1" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/drawable/tab_background_unselected.xml" value="0.1" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/drawable/tab_selector.xml" value="0.1" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/drawable/white_corner_background.xml" value="0.1" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/layout/activity_admin.xml" value="0.5" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/layout/activity_category_add.xml" value="0.30144927536231886" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/layout/activity_home.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/layout/activity_login.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/layout/activity_pdf_add.xml" value="0.33" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/layout/activity_pdf_detail.xml" value="0.33" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/layout/activity_pdf_edit.xml" value="0.33" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/layout/activity_pdf_list_admin.xml" value="0.33" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/layout/activity_registration.xml" value="0.5" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/layout/activity_splash.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/layout/activity_user_dashboard.xml" value="0.1544502617801047" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/layout/activity_welcome.xml" value="0.3484375" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/layout/fragment_book_user.xml" value="0.3625" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/layout/row_category.xml" value="0.33" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/ComicBook/app/src/main/res/layout/row_pdf_admin.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/sahil/AppData/Local/Android/Sdk/platforms/android-32/data/res/drawable/ic_lock_power_off.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

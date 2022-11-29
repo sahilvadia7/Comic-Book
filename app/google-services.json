@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "320959920907",
+    "project_id": "comic-book-771a1",
+    "storage_bucket": "comic-book-771a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320959920907:android:748bf3af5d9be5bb10400e",
+        "android_client_info": {
+          "package_name": "com.example.comicbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320959920907-o9lq784d0tqea4qm6l5d74hj6bfb4vr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJWkkV8qDQdjMzplG5CQ7eIk08NzKbxqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320959920907-o9lq784d0tqea4qm6l5d74hj6bfb4vr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
